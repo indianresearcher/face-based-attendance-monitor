@@ -11,7 +11,7 @@ project_root/
 
 ├── data.pt                 # Stores face embeddings and names
 
-├── attendance_log.csv      # Logs attendance with Name and Time
+├── attendance_log.csv      # Logs attendance with Name, Date and Time
 
 ├── register_user.py        # Script to register user faces via webcam
 
