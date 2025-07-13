@@ -8,21 +8,21 @@ Project Structure
 project_root/
 
 ├── photos/                 # Stores user face images (photos/username/)
-|
+
 ├── data.pt                 # Stores face embeddings and names
-|
+
 ├── attendance_log.csv      # Logs attendance with Name and Time
-|
+
 ├── register_user.py        # Script to register user faces via webcam
-|
+
 ├── generate_embeddings.py  # Generate embeddings from registered photos
-|
+
 ├── live_attendance.py      # Run live face recognition attendance
-|
+
 ├── monthly_attendance.py   # Generate monthly attendance reports
-|
+
 ├── requirements.txt        # Python dependencies
-|
+
 └── README.md               # Project documentation
 
 Setup Instructions
